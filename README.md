@@ -1,1 +1,1 @@
-# Paiting_genre_classification
+# Solid
